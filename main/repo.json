@@ -1,5 +1,8 @@
 {
-  "apps": [
+    "name": "Doom IPAs",
+  "identifier": "rip.yippee.aio",
+  "sourceURL": "https://github.com/ThePizzaMan865/DOOM-IPA-S/blob/main/main/repo.json"
+   "apps": [
     {
       "beta": false,
       "bundleIdentifier": "com.yoshisuga.gzdoom",
@@ -145,8 +148,4 @@
       "versionDescription": ""
     }
   ],
-  "identifier": "com.thepizzaman.doomipas",
-  "name": "Doom IPA'S",
-  "news": [],
-  "userInfo": {}
 }
