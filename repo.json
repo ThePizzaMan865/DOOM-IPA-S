@@ -1,1 +1,153 @@
-{"apps":[{"beta":false,"bundleIdentifier":"com.yoshisuga.gzdoom","developerName":"Yoshisuga","downloadURL":"https://github.com/yoshisuga/gzdoom/releases/download/ios-preview-1/GZDoom.ipa","iconURL":"https://pub.tbqh.dev/imgs/angel.jpg","localizedDescription":"GZDoom ported onto iOS! by Yoshisuga. Preview btw.","name":"GZDoom Preview","screenshotURLs":[""],"size":334,"subtitle":"GZDoom Ported onto iOS!","tintColor":"018084","version":"Preview","versionDate":"2023-08-13","versionDescription":""},{"beta":false,"bundleIdentifier":"com.TDMbest.doomfinal","developerName":"SultanModsIPA's","downloadURL":"https://download.starfiles.co/killlwjchzej","iconURL":"https://pub.tbqh.dev/imgs/angel.jpg","localizedDescription":"Final Doom ported by Tomkidd and compiled by SultanModsIPA's.","name":"FINAL DOOM","screenshotURLs":[""],"size":38548980,"subtitle":"Final Doom Ported by Tomkidd","tintColor":"018084","version":"2.7","versionDate":"2020-03-24T14:00:00-07:00","versionDescription":""},{"beta":false,"bundleIdentifier":"com.TDMbest.doom2","developerName":"SultanModsIPAs","downloadURL":"https://download.starfiles.co/52uko1jqx13j","iconURL":"https://pub.tbqh.dev/imgs/angel.jpg","localizedDescription":"Tomkidd's Port of DOOM II compiled by SultanModsIPAs.","name":"DOOM II","screenshotURLs":[""],"size":26879374,"subtitle":"Tomkidd's Port of DOOM II.","tintColor":"018084","version":"2.7","versionDate":"2020-03-24T14:00:00-07:00","versionDescription":""},{"beta":false,"bundleIdentifier":"com.TDMbest.doom1","developerName":"SultanModsIPAs","downloadURL":"https://download.starfiles.co/2yoo5mbjupga","iconURL":"https://pub.tbqh.dev/imgs/angel.jpg","localizedDescription":"Tomkidd's Port of DOOM 1 compiled by SultanModsIPAs.","name":"DOOM 1 From Tomkidd","screenshotURLs":[""],"size":24405723,"subtitle":"Tomkidd's Port of DOOM 1","tintColor":"018084","version":"2.7","versionDate":"2020-03-24T14:00:00-07:00","versionDescription":""},{"beta":false,"bundleIdentifier":"com.idsoftware.DOOM","developerName":"Bethesda","downloadURL":"https://starfiles.co/file/FK1h0M23vDlU/DOOMv-2-9-1automatic","iconURL":"https://download.starfiles.co/Iq6xj2cV1ACA?preview","localizedDescription":"Earliest Version of the 2019 port of DOOM 1 on iOS. Doesn't seem to be able to login to Bethesda.net.\nProbably Safe.","name":"DOOM 1","screenshotURLs":[""],"size":320.1,"subtitle":"DOOM 1 for iOS!","tintColor":"018084","version":"2.9.1","versionDate":"2020-03-24T14:00:00-07:00","versionDescription":""},{"beta":false,"bundleIdentifier":"com.bethsoft.DOOMII","developerName":"Bethesda","downloadURL":"https://file.ipaomtk.com/ipa/DOOM-II.ipa","iconURL":"https://ipaomtk.com/wp-content/uploads/2023/12/DOOM%20II-thumbnail.webp","localizedDescription":"Doom 2 for iOS. Not too sure if it has a virus or not so be cautious.\nFrom ipaomtk.com.\nHavent logged onto Betheseda.net on the app for obvious reasons.","name":"DOOM 2","screenshotURLs":[""],"size":374.9,"subtitle":"Doom 2 for iOS!","tintColor":"018084","version":"1.1.6","versionDate":"2020-03-24T14:00:00-07:00","versionDescription":""},{"beta":false,"bundleIdentifier":"com.idsoftware.DOOM","developerName":"Bethesda.Net","downloadURL":"https://starfiles.co/file/vm4wo26iNq64/DOOMv-2-9-4-ipa","iconURL":"https://download.starfiles.co/Iq6xj2cV1ACA?preview","localizedDescription":"Version 2.9.4 of Doom for iOS.\nIssues: Can't login to Bethesda.\nProbably Safe.","name":"DOOM 1","screenshotURLs":[""],"size":36843,"subtitle":"Doom 1 for iOS!","tintColor":"018084","version":"2.9.4","versionDate":"2020-03-24T14:00:00-07:00","versionDescription":""},{"beta":false,"bundleIdentifier":"com.idsoftware.DOOM","developerName":"Bethesda.Net","downloadURL":"https://starfiles.co/file/UmsSkkxPAbyo/DOOMv-2-9-6-ipa","iconURL":"https://download.starfiles.co/Iq6xj2cV1ACA?preview","localizedDescription":"Doom iOS version 2.9.6 from starfiles.\nIssues: Can't Login to Bethesda.\nProbably Safe.","name":"DOOM 1","screenshotURLs":[""],"size":268.7,"subtitle":"Doom For iOS!","tintColor":"018084","version":"2.9.6","versionDate":"2020-03-24T14:00:00-07:00","versionDescription":""}],"identifier":"com.example.source","name":"Doom IPA'S","news":[],"userInfo":{}}
+COPY
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.yoshisuga.gzdoom",
+      "developerName": "Yoshisuga",
+      "downloadURL": "https://github.com/yoshisuga/gzdoom/releases/download/ios-preview-1/GZDoom.ipa",
+      "iconURL": "https://pub.tbqh.dev/imgs/angel.jpg",
+      "localizedDescription": "GZDoom ported onto iOS! by Yoshisuga. Preview btw.",
+      "name": "GZDoom Preview",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 334,
+      "subtitle": "GZDoom Ported onto iOS!",
+      "tintColor": "018084",
+      "version": "Preview",
+      "versionDate": "2023-08-13",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.TDMbest.doomfinal",
+      "developerName": "SultanModsIPA's",
+      "downloadURL": "https://download.starfiles.co/killlwjchzej",
+      "iconURL": "https://pub.tbqh.dev/imgs/angel.jpg",
+      "localizedDescription": "Final Doom ported by Tomkidd and compiled by SultanModsIPA's.",
+      "name": "FINAL DOOM",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 38548980,
+      "subtitle": "Final Doom Ported by Tomkidd",
+      "tintColor": "018084",
+      "version": "2.7",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.TDMbest.doom2",
+      "developerName": "SultanModsIPAs",
+      "downloadURL": "https://download.starfiles.co/52uko1jqx13j",
+      "iconURL": "https://pub.tbqh.dev/imgs/angel.jpg",
+      "localizedDescription": "Tomkidd's Port of DOOM II compiled by SultanModsIPAs.",
+      "name": "DOOM II",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 26879374,
+      "subtitle": "Tomkidd's Port of DOOM II.",
+      "tintColor": "018084",
+      "version": "2.7",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.TDMbest.doom1",
+      "developerName": "SultanModsIPAs",
+      "downloadURL": "https://download.starfiles.co/2yoo5mbjupga",
+      "iconURL": "https://pub.tbqh.dev/imgs/angel.jpg",
+      "localizedDescription": "Tomkidd's Port of DOOM 1 compiled by SultanModsIPAs.",
+      "name": "DOOM 1 From Tomkidd",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 24405723,
+      "subtitle": "Tomkidd's Port of DOOM 1",
+      "tintColor": "018084",
+      "version": "2.7",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.idsoftware.DOOM",
+      "developerName": "Bethesda",
+      "downloadURL": "https://starfiles.co/file/FK1h0M23vDlU/DOOMv-2-9-1automatic",
+      "iconURL": "https://download.starfiles.co/Iq6xj2cV1ACA?preview",
+      "localizedDescription": "Earliest Version of the 2019 port of DOOM 1 on iOS. Doesn't seem to be able to login to Bethesda.net.\nProbably Safe.",
+      "name": "DOOM 1",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 320.1,
+      "subtitle": "DOOM 1 for iOS!",
+      "tintColor": "018084",
+      "version": "2.9.1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.bethsoft.DOOMII",
+      "developerName": "Bethesda",
+      "downloadURL": "https://file.ipaomtk.com/ipa/DOOM-II.ipa",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/DOOM%20II-thumbnail.webp",
+      "localizedDescription": "Doom 2 for iOS. Not too sure if it has a virus or not so be cautious.\nFrom ipaomtk.com.\nHavent logged onto Betheseda.net on the app for obvious reasons.",
+      "name": "DOOM 2",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 374.9,
+      "subtitle": "Doom 2 for iOS!",
+      "tintColor": "018084",
+      "version": "1.1.6",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.idsoftware.DOOM",
+      "developerName": "Bethesda.Net",
+      "downloadURL": "https://starfiles.co/file/vm4wo26iNq64/DOOMv-2-9-4-ipa",
+      "iconURL": "https://download.starfiles.co/Iq6xj2cV1ACA?preview",
+      "localizedDescription": "Version 2.9.4 of Doom for iOS.\nIssues: Can't login to Bethesda.\nProbably Safe.",
+      "name": "DOOM 1",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 36843,
+      "subtitle": "Doom 1 for iOS!",
+      "tintColor": "018084",
+      "version": "2.9.4",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.idsoftware.DOOM",
+      "developerName": "Bethesda.Net",
+      "downloadURL": "https://starfiles.co/file/UmsSkkxPAbyo/DOOMv-2-9-6-ipa",
+      "iconURL": "https://download.starfiles.co/Iq6xj2cV1ACA?preview",
+      "localizedDescription": "Doom iOS version 2.9.6 from starfiles.\nIssues: Can't Login to Bethesda.\nProbably Safe.",
+      "name": "DOOM 1",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 268.7,
+      "subtitle": "Doom For iOS!",
+      "tintColor": "018084",
+      "version": "2.9.6",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Doom IPA'S",
+  "news": [],
+  "userInfo": {}
+}
