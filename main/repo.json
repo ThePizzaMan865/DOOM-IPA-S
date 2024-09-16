@@ -1,5 +1,5 @@
 {
-    "name": "Doom IPAs",
+ "name": "Doom IPAs",
   "identifier": "rip.yippee.aio",
   "sourceURL": "https://github.com/ThePizzaMan865/DOOM-IPA-S/blob/main/main/repo.json"
    "apps": [
@@ -99,5 +99,5 @@
       "version": "2.9.6",
       "versionDate": "2020-03-24T14:00:00-07:00",
     }
-  ],
+  ]
 }
